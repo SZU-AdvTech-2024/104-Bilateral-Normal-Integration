@@ -1,0 +1,8 @@
+@inproceedings{REPO104,
+    author = "Cao, Xu and Santo, Hiroaki and Shi, Boxin and Okura, Fumio and Matsushita, Yasuyuki",
+    booktitle = "European Conference on Computer Vision",
+    organization = "Springer",
+    pages = "552--567",
+    title = "{Bilateral normal integration}",
+    year = "2022"
+}
